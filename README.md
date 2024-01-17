@@ -2,6 +2,7 @@
 
 *CUDA program has the extension of ".cu" and after the code is compiled it will generate the files of xml and etc..*
 
+#Below are the header files used in the code:#
 
     #include"cuda_runtime.h"
-    #
+    #include"device_launch_parameters.h"
