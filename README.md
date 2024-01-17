@@ -6,3 +6,4 @@ Below are the header files used in the given code:
 
     #include"cuda_runtime.h"
     #include"device_launch_parameters.h"
+    #include<stdio.h>                    //This is the defined input output  header file in C Programming.
